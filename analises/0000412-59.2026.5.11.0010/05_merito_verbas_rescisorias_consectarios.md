@@ -1,0 +1,47 @@
+**Das Verbas Rescisórias, das Multas dos Arts. 467 e 477 da CLT, do Adicional Noturno e do FGTS**
+
+Mantida a justa causa, a sentença rejeitou as pretensões dela dependentes, nos seguintes termos (ID d70b3cb):
+
+> "Mantida a higidez da justa causa aplicada, julgo improcedentes os pedidos de pagamento de aviso prévio indenizado e sua projeção, 13º salário proporcional, férias proporcionais acrescidas do terço constitucional e multa de 40% sobre o saldo do FGTS.
+>
+> Igualmente improcedentes os pedidos de liberação de guias para saque do saldo do FGTS e habilitação no programa do seguro-desemprego, bem como o pleito de indenização substitutiva deste último, por manifesta incompatibilidade com a modalidade de rescisão motivada por justa causa (arts. 18, § 1º, e 20, I, da Lei nº 8.036/1990; art. 2º, I, da Lei nº 7.998/1990).
+>
+> Improcede o pedido de incidência da multa do art. 477, § 8º, da CLT, uma vez que as verbas rescisórias devidas na modalidade de justa causa foram quitadas dentro do prazo legal (fls. 156-158, ID 336ad68), sendo o valor líquido zerado/residual em razão das deduções e adiantamentos devidos, sem atraso imputável à empregadora.
+>
+> Julgo improcedente a aplicação da multa do art. 467 da CLT, ante a inequívoca controvérsia instaurada sobre a modalidade rescisória e a inexistência de verbas rescisórias incontroversas pendentes de quitação na primeira audiência.
+>
+> Improcede o pleito de retificação da CTPS do obreiro quanto à data de saída, porquanto mantida a data de desligamento em 16/12/2025 sem a projeção de aviso prévio.
+>
+> Com relação à pretensão de integração do adicional noturno nas verbas rescisórias e recálculo da base salarial (fls. 5-6, 10, ID 338ef21), cumpre observar que não há pedido autônomo de pagamento de diferenças de adicional noturno do período contratual. Mantida a dispensa por justa causa, indeferem-se os reflexos do adicional noturno sobre aviso prévio, 13º salário proporcional, férias proporcionais com 1/3 e multa de 40% do FGTS.
+>
+> No que tange aos depósitos do FGTS do período contratual, verifica-se do extrato analítico da conta vinculada (fls. 37-47, ID 138f3b8) que a empregadora efetuou os recolhimentos devidos ao longo da contratualidade. Ausente qualquer demonstração objetiva de diferenças não depositadas na vigência do contrato, rejeita-se o pedido relativo ao FGTS e ao genérico requerimento de "FGTS trintenário"."
+
+Nas razões recursais, sustenta-se que, afastada a justa causa, seriam devidas as parcelas da dispensa imotivada, as multas legais e as diferenças de FGTS (ID 9cfdec5):
+
+> "Reconhecida a invalidade da justa causa, a ruptura contratual deve ser enquadrada como dispensa imotivada, com condenação da recorrida ao pagamento das parcelas postuladas na inicial, observados os parâmetros do contrato e os valores a serem apurados em liquidação. [...]
+>
+> A reversão judicial da justa causa não afasta, por si só, a multa do art. 477, § 8º, da CLT, conforme entendimento do TST, segundo o qual a empregadora deve suportar a consequência do não pagamento tempestivo das verbas efetivamente devidas quando a dispensa motivada é posteriormente afastada. [...]
+>
+> Quanto à multa do art. 467 da CLT, requer-se sua aplicação sobre as parcelas rescisórias incontroversas que deveriam ter sido pagas na primeira audiência, caso constatada a ausência de controvérsia válida quanto ao respectivo montante: [...]
+>
+> A sentença indeferiu o pedido de diferenças de FGTS sob o fundamento de ausência de demonstração analítica. Todavia, afastada a justa causa, será devida, ao menos, a multa de 40% sobre os depósitos de todo o período contratual, além dos depósitos incidentes sobre as parcelas rescisórias reconhecidas.
+>
+> Quanto às diferenças eventualmente existentes, requer-se que a recorrida seja condenada a apresentar os comprovantes analíticos completos dos recolhimentos, inclusive aqueles relativos ao período alcançado pelo pedido, permitindo-se a apuração em liquidação. A exibição fragmentária de extratos não pode impedir o exame integral da regularidade dos depósitos quando os documentos completos estão na esfera de disponibilidade da empregadora e dos sistemas vinculados ao contrato."
+
+A controvérsia, em última análise, reduz-se a definir quais dessas pretensões dependem da reversão da justa causa e quais têm fundamento autônomo. A grande maioria delas é mera consequência da conversão pretendida.
+
+A reversão, afastada nos tópicos anteriores, é pressuposto das seguintes pretensões: o aviso prévio indenizado proporcional e sua projeção (art. 487, § 1º, da CLT e Lei nº 12.506/2011); o 13º salário proporcional (art. 3º da Lei nº 4.090/1962); as férias proporcionais com o terço constitucional (art. 146, parágrafo único, da CLT e Súmula nº 171 do TST); a multa de 40% sobre o FGTS (art. 18, § 1º, da Lei nº 8.036/1990); a liberação das guias para saque (art. 20, I, da mesma lei); e a habilitação no seguro-desemprego ou sua indenização substitutiva (art. 3º da Lei nº 7.998/1990). A retificação da CTPS pretendida pelo recorrente, para registrar a projeção do aviso prévio e a alteração da modalidade de desligamento, também pressupõe a conversão. Mantida a justa causa, falta o requisito comum a todas essas parcelas, que é a dispensa sem justa causa por iniciativa do empregador. Os pedidos de indenização substitutiva das guias, formulados em caráter sucessivo, seguem a mesma sorte, pois só teriam lugar se houvesse direito ao benefício e o empregador frustrasse seu recebimento.
+
+Idêntico destino tem a integração do adicional noturno. A petição inicial não formulou pedido de diferenças de adicional noturno durante o contrato. Utilizou a parcela apenas para compor a base de cálculo das verbas da dispensa imotivada, e o próprio recurso limita o pedido à "integração do adicional noturno nas parcelas rescisórias". Indeferidas essas parcelas, não há base de cálculo a ser recomposta.
+
+Quanto à multa do art. 477, § 8º, da CLT, o recurso a vincula expressamente à reversão da justa causa, com apoio em precedentes do TST e no Tema 71 da Tabela de Incidentes de Recursos Repetitivos daquela Corte. A tese firmada pressupõe que a dispensa motivada tenha sido afastada em juízo, pois só assim as parcelas da dispensa imotivada se tornam "efetivamente devidas" e seu não pagamento tempestivo configura mora. Mantida a justa causa, a premissa não se verifica. A sentença registrou que as parcelas próprias da modalidade de rescisão aplicada foram quitadas no prazo legal (ID 336ad68), e o recurso não impugna essa constatação.
+
+A multa do art. 467 da CLT incide apenas sobre verbas rescisórias incontroversas não pagas na primeira audiência. O próprio recurso a condiciona à constatação de "ausência de controvérsia válida quanto ao respectivo montante". A controvérsia sobre a modalidade de ruptura foi não só instaurada como resolvida em favor da reclamada, de modo que não há parcela incontroversa sobre a qual a multa possa incidir.
+
+Das pretensões deste tópico, a única com fundamento autônomo é a de diferenças de depósitos do FGTS durante o contrato, que não depende da modalidade de ruptura. A jurisprudência consolidada do TST, na Súmula nº 461, atribui ao empregador o ônus de comprovar a regularidade dos depósitos, por se tratar de fato extintivo do direito do trabalhador. Esse ônus, contudo, pode ser satisfeito por qualquer documento constante dos autos, independentemente de quem o tenha juntado, pois a prova pertence ao processo (art. 371 do CPC). No caso, o extrato analítico da conta vinculada foi emitido pela Caixa Econômica Federal em 30/03/2026 e juntado pelo próprio reclamante com a petição inicial (ID 138f3b8). Ele registra depósitos desde a competência de abril de 2008 ("115-DEPOSITO ABRIL 2008") até a de dezembro de 2025 ("115-DEPOSITO DEZEMBRO 2025"), inclusive durante o afastamento de agosto a outubro de 2025.
+
+O documento desautoriza a tese de "exibição fragmentária". O extrato abrange todo o contrato. As competências que não constam com depósito no mês próprio aparecem recolhidas posteriormente, com os respectivos encargos. É o caso das competências de março a maio de 2020 e de abril a julho de 2021, lançadas como "115-DEPOSITO EM ATRASO" e acompanhadas de "115-JAM RECOLHIDO EMPRESA". Outras aparecem como transferências recebidas, a exemplo dos lançamentos de 18/10/2013 e de 19/02/2024. O reclamante não apontou, nem na inicial nem no recurso, uma única competência sem depósito ou recolhida a menor. O pedido de que a reclamada seja condenada a "apresentar os comprovantes analíticos completos", formulado pela primeira vez no recurso, é inovação recursal e, de todo modo, inútil diante do extrato integral já constante dos autos. Quanto ao "FGTS trintenário", a pretensão não indica período ou valor e esbarra, em qualquer hipótese, na modulação fixada pelo STF no ARE 709.212 (Tema 608 da repercussão geral). Mantém-se, portanto, a rejeição.
+
+O requerimento de apuração de juros e correção monetária fica prejudicado, pois não há condenação.
+
+Por todas essas razões, nego provimento ao recurso neste capítulo. Mantenho a sentença quanto ao aviso prévio e sua projeção, ao 13º salário e às férias proporcionais com o terço constitucional, à multa de 40% e à liberação do FGTS, às guias do seguro-desemprego e às indenizações substitutivas, à retificação da CTPS, à integração do adicional noturno, às multas dos arts. 467 e 477, § 8º, da CLT e às diferenças de depósitos do FGTS, com os arts. 467 e 477 da CLT considerados prequestionados sem violação.
