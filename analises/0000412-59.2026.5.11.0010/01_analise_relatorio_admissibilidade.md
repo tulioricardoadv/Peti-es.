@@ -38,6 +38,45 @@ Recurso Ordinário do reclamante contra sentença de improcedência total (10ª 
    - A sentença afastou a amizade íntima sob o fundamento de que não houve contradita oportuna. Na verdade, a impugnação do autor foi feita aos documentos, antes da oitiva. O voto pode manter a conclusão (a testemunha negou a amizade sob compromisso, e não houve prova em contrário) sem repetir essa premissa.
    - Frases atribuídas ao autor. **Sindicância (ID 9b6c330):** "Tá vendo minha mão aqui? Do jeito que você é branquinha se eu lhe der uma palmada na bunda vai ficar uma marca. Do jeito que tu é branquinha, vai ficar vermelhinha". **Juízo (ID 0413671):** "se ela comia fermento", "se eu der um tapa nessa tua bunda, vai ficar toda vermelhinha". O núcleo é idêntico, e a divergência apontada pelo recorrente é apenas de redação.
 
+## B-bis. Complementação após o envio dos IDs 9b6c330, 138f3b8, be6cc5b e a36066f
+
+**Ainda pendentes:** o TRCT (ID 336ad68) e a certidão de publicação da sentença (tempestividade).
+
+1. **Cronologia confirmada pelos cartões de ponto (ID a36066f) e pela ficha de registro (ID be6cc5b):**
+
+   | Período | Situação |
+   |---|---|
+   | 23/06 a 02/07/2025 | Férias |
+   | 03/07 a 01/08/2025 | Trabalho normal no 2º turno (22 dias de efetivo labor) |
+   | 02/08 a 20/08/2025 | Atestados médicos (com faltas em 15 e 18/08) |
+   | 21/08 a 25/10/2025 | "Afast. Previdência" |
+   | 27/10/2025 | Retorno ao trabalho |
+   | 27/10 a 15/12/2025 | Labor regular |
+   | 16/12/2025 | "Demitido" |
+
+   - A tese de que o autor estava de férias na data dos fatos fica afastada: o relato da vítima situa o episódio "no retorno das férias coletivas do mês de junho, mais ou menos duas semanas após", ou seja, em meados de julho de 2025, com o autor trabalhando.
+   - A premissa da sentença de que a dispensa se deu "no primeiro dia de retorno" está **documentalmente incorreta**: foram cerca de sete semanas de trabalho após o retorno.
+
+2. **Sindicância (ID 9b6c330), documento "DN – Montagem / Escuta Social", elaborado pelo Apoio Social em novembro de 2025:**
+   - A denúncia foi recebida em 10/09/2025, classificada como "Importunação Sexual".
+   - A conclusão do Apoio Social é "PROCEDENTE", datada de 14/10/2025. A entrevista do líder Obede, sobre o caso Guilherme, ocorreu em 03/11/2025, por orientação do jurídico. O parecer jurídico não tem data; o documento é de novembro de 2025.
+   - Consta da conclusão: *"quando a colaboradora Vitória decidiu contar para seus superiores, ele foi chamado e **confirmou ao seu Líder e Encarregado o ocorrido**. Que em seguida, o José Luiz sofreu um acidente e foi afastado ao INSS."* Essa é uma admissão extrajudicial relatada. Deve ser valorada com cautela, pois é relato indireto e os superiores não foram ouvidos em juízo, mas soma-se à prova.
+   - O plano de trabalho registra a entrevista da testemunha em "11/01/2025". Trata-se de erro material, pois o relato da testemunha é de 14/10/2025. O parecer traz ainda a ressalva "Correção na data: 1ª Denúncia – Junho/2025". Ambos os erros materiais estão esclarecidos.
+   - **Caso Guilherme:** o líder informou que a colega que trabalhava próximo "informou não ter visto", e que Guilherme "negou ter tocado na colaboradora". A vítima foi transferida no mesmo dia. Aqui há um distinguishing concreto em relação ao caso do autor: ao contrário do episódio do reclamante, o de Guilherme **não teve testemunha presencial confirmando o fato**, foi negado pelo acusado, ocorreu cerca de um ano antes e foi tratado informalmente pela gestão, com o que o parecer chama de "falha de gestão". O fundamento da sentença ("contornos fáticos e probatórios completamente diversos") encontra suporte documental específico.
+   - O parecer enquadra a conduta do autor como "assédio sexual verbal" e recomenda a justa causa com base no art. 482, "b", da CLT e em infração ao Código de Ética. O parecer não menciona a alínea "h", que aparece na carta de dispensa.
+
+3. **FGTS (ID 138f3b8, extrato juntado pelo próprio autor):**
+   - Depósitos mensais regulares de abril de 2008 a dezembro de 2025, com "valor para fins rescisórios" de R$ 55.281,53. Houve saques-aniversário (códigos 60/60F).
+   - As aparentes lacunas estão supridas:
+     - maio e junho de 2013 e janeiro de 2024: "Transferência recebida – DEP SP";
+     - competências de 2020 e 2021 diferidas por medida provisória: "Depósito em atraso" e "AC AUT JAM Recolhimento".
+   - Resta apenas agosto de 2015, alcançado pela prescrição (ARE 709.212/STF, modulação; ação ajuizada em 31/03/2026).
+   - O autor não apontou diferença específica. Além disso, o pedido de "diferenças" não consta do rol da inicial; o FGTS trintenário aparece apenas na tabela, como "a apurar". **Manutenção da sentença.**
+
+4. **Férias vencidas: o ponto passa a ser relevante.** A ficha de registro (ID be6cc5b) mostra, para o período aquisitivo 14/04/2024 a 13/04/2025, gozo de apenas 10 dias (23/06 a 02/07/2025). O padrão do contrato era fracionar 10 dias no meio do ano e 20 dias em dezembro. Restam, portanto, **exatamente os 20 dias de férias vencidas** pedidos na emenda (R$ 3.435,69). Essas férias são devidas mesmo na justa causa (art. 146, caput, da CLT), de forma simples, pois o período concessivo iria até 13/04/2026. A sentença não examinou o pedido e o recurso não o aborda. **Sem o TRCT (ID 336ad68) não é possível saber se foram quitadas na rescisão.** A sentença refere "valor líquido zerado/residual em razão das deduções".
+   - Se o TRCT registrar o pagamento, não há o que prover.
+   - Se não registrar, a relatora pode julgar o pedido com base na Súmula 393, II, do TST, ou deixá-lo sem exame por falta de devolução. **Decisão da relatora.**
+
 ## C. Mapa das matérias devolvidas e direção sugerida
 
 | Ordem | Tópico | Direção sugerida |
